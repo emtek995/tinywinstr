@@ -1,0 +1,15 @@
+[package]
+name = "tinywinstr"
+version = "0.0.1"
+authors = ["Ed Way <emtek995@gmail.com>"]
+edition = "2021"
+license = "MIT"
+keywords = ["windows"]
+categories = ["os::windows-apis"]
+description = "A simple macro to help convert rust strings to what windows understands."
+readme = "README.md"
+repository = "https://github.com/emtek995/winstr/"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
