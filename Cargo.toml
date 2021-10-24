@@ -1,6 +1,6 @@
 [package]
 name = "tinywinstr"
-version = "0.0.3"
+version = "0.0.4"
 authors = ["Ed Way <emtek995@gmail.com>"]
 edition = "2021"
 license = "MIT"
