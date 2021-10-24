@@ -8,8 +8,7 @@ Tiny library for handling rust strings in windows.
 
 use std::ptr::null_mut;
 use tinywinstr::winstr;
-use winapi::um::winuser::{MessageBoxW, MB_OK},
-};
+use winapi::um::winuser::{MessageBoxW, MB_OK};
 
 fn main() {
     unsafe {
